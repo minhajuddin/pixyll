@@ -1,0 +1,14 @@
+---
+name: Pixyll
+generator: jekyll
+
+thumbnail: https://cloud.githubusercontent.com/assets/1424573/3847467/134aa236-1e66-11e4-8421-4e8c122118dc.png
+
+author_name: John Otander
+author_site: http://johnotander.com
+
+tags:
+
+# add-theme https://github.com/zammuthemes/the-plain
+# should copy the name, ask for generator
+# copy files for generator, e.g. jekyll copies Gemfile
